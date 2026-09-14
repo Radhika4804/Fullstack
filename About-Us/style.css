@@ -1,0 +1,73 @@
+body {
+    font-family: Arial;
+    background-color: #f4f6f8;
+    margin: 0;
+}
+
+
+.header {
+    background-color: #263f73;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+
+.header h1 {
+    margin-bottom: 10px;
+}
+
+
+.about {
+    background-color: white;
+    border: 1px solid #dddddd;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+.skills {
+    background-color: white;
+    border: 1px solid #dddddd;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+.skills li {
+    margin: 10px;
+}
+
+
+.projects {
+    background-color: white;
+    border: 1px solid #dddddd;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+.projects h3 {
+    color: #263f73;
+}
+
+
+.contact {
+    background-color: white;
+    border: 1px solid #dddddd;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+.contact a {
+    color: #263f73;
+}
+
+
+.footer {
+    background-color: #263f73;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
